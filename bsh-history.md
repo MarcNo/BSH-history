@@ -34,5 +34,4 @@
 * She is buried  at Hamptonburgh Cemetery  just yards from the Stone House and next to her first husband William Bull.
 * Sadly, Christopher Denne never gave her the 100 acres of promised land for her efforts to help settle Orange County. 
 * In 1729, William and Sarah's and his first son John, 8 years old, bought 100 acres of land from Denne widow Elizabeth and the family has believed through lore that this was to get the promised land from the Denne estate. About half of that parcel are still owned by the Descendants. 
-* 
 * On April 23, 1796, the day of Sarah’s funeral, a family memorial was written listing her 12 children who bore 98 grandchildren, 212 great grandchildren and 13 great-great grandchildren, totaling 335 descendants
