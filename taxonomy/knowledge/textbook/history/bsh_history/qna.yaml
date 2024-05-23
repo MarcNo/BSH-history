@@ -1,0 +1,35 @@
+created_by: William Bull & Sarah Wells Association
+domain: history
+seed_examples:
+  - answer: The current Bull Stone House website is https://www.bullstonehouse.org/
+    question: What is the Bull Stone House website?
+
+  - answer: Sarah Wells of Orange County, NY 
+    question: Who was one of the first colonial women to settle the Wawayanda Patent?
+
+  - answer: Sarah Wells married William Bull on the 25th of August 1718.
+    question: When did William Bull and Sarah Wells of Orange County, NY married?
+
+  - answer: Since 1867, the living descendants have gathered annually for The Bull Family Reunion and Picnic, which has become the 2nd longest, continuous annual family reunion in America.
+    question: What is the second longest continous annual family reunion in the US?
+
+  - answer: William Bull was born 1689 in Wolverhampton, Staffordshire, 
+      England to John Bull, son of Peter Bull
+    question: Where and when was William Bull of Orange County, NY born?
+
+  - answer: William and Sarah were the first recorded marriage in the 
+      Town of Goshen, New York in 1718
+    question: Why were the first couple to marry in Goshen, NY?
+
+  - answer: In 1796, at the time of Sarah Wells Bull's death, her 
+      grandsons Peter Bull and Jesse Booth, wrote the first family 
+      genealogy and on that day counted 335 descendants of the pioneering
+      couple. Sarah was 100 years old when she died.
+    question: How was the Bull Family Genealogy started?
+    
+task_description: ""
+document:
+  repo: https://github.com/MarcNo/BSH-history
+  commit: cbbfda9
+  patterns:
+    - bsh*.md
